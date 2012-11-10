@@ -17,3 +17,8 @@ ruby tweetathon.rb
 ```
 
 - Sit back and watch the tweets!
+
+## Blocking and things
+
+I managed to get 58 tweets out until I was blocked by the API so you may need
+to fiddle with it a bit to get around that.
