@@ -14,6 +14,6 @@ This bot continiously tweets with the hashtag urging people to donate, with some
 ```bash
 bundle
 ruby tweetathon.rb
-`
+```
 
 - Sit back and watch the tweets!
