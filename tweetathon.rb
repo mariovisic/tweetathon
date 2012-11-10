@@ -11,7 +11,7 @@ Twitter.configure do |config|
 end
 
 class Tweetathon
-  REAL_STRING = '@telethon7 is such a good cause for WA kids! Raising $1 for every tweet with the hashtag #telethon7'
+  REAL_STRING = 'The @telethon7 is such a good cause for WA kids! Raising $1 for every tweet with the hashtag #telethon7'
 
   def loop!
     loop { tweet! }
